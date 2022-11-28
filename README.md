@@ -22,7 +22,7 @@
 
 - 👬 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Have a look at my [portfolio](https://udaycreative.github.io/) and [resume](https://drive.google.com/file/d/10nmSo-DqHntp3-ZXxe_kDvEgMedQMDqE/view?usp=sharing)
+- 💬 Have a look at my [portfolio](https://sukanta255.github.io/) and [resume](https://drive.google.com/file/d/10nmSo-DqHntp3-ZXxe_kDvEgMedQMDqE/view?usp=sharing)
 
 - 📫 How to reach me **sukantapramanik9295@gmail.com**
 
