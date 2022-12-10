@@ -44,7 +44,7 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukanta255" alt="sukanta255" /></a> </p>
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sukanta255&theme=react&hide_border=false)<br />
 
