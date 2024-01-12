@@ -15,9 +15,11 @@
 
 - 🔭 I’m  working in **Advenio Tecnosys Pvt Ltd.**
 
+- 🔭 I’m working on Developing New Skills
+
 - 💠 Currently improving my skills in HTML, CSS, JavaScript, React, Node.js, Express.js and MongoDB.
 
-- 🤔 Ask me About Advanced Javascript,  React JS .
+- 🤔 Ask me About Advanced Javascript, HTML, CSS, React.JS, Redux  .
 
 - 💬 Have a look at my [portfolio](https://sukanta255.github.io/) and [resume](https://drive.google.com/file/d/1zLhdF8o3Zw68vn3XQV4V7hXSTpiFVJiF/view?usp=sharing)
 
