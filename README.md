@@ -13,7 +13,8 @@
 
 - 🌍 I'm based in Nadia,West Bengal, India
 
-- 🔭 I’m  working on **Developing New Skills**
+/* - 🔭 I’m  working on **Developing New Skills** */
+- 🔭 I’m  working in **Advenio Tecnosys Pvt Ltd.**
 
 - 💠 Currently improving my skills in HTML, CSS, JavaScript, React, Node.js, Express.js and MongoDB.
 
