@@ -21,7 +21,7 @@
 
 - 🤔 Ask me About Advanced Javascript, HTML, CSS, React.JS, Redux  .
 
-- 💬 Have a look at my [portfolio](https://sukanta255.github.io/) and [resume](https://drive.google.com/file/d/1zLhdF8o3Zw68vn3XQV4V7hXSTpiFVJiF/view?usp=sharing)
+- 💬 Have a look at my [portfolio](https://sukanta255.github.io/) and [resume](https://drive.google.com/file/d/1eUvfmoVrzQWGEeCRjWt1LznpwZ7rGqfy/view?usp=sharing)
 
 - 📫 How to reach me **sukantapramanik9295@gmail.com**
 
