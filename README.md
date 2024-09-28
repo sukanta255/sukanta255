@@ -19,7 +19,7 @@
 
 - 🔭 I’m  working in **One Health Assist.**
 
-- - 🔭 Previous  worked in  **Advenio Tecnosys Pvt Ltd.**
+- 🔭 Previous  worked in  **Advenio Tecnosys Pvt Ltd.**
 
 - 🔭 I’m working on Developing New Skills
 
